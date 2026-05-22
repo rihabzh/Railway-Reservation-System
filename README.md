@@ -1,8 +1,8 @@
 # Railway-Reservation-System
 
-# Reg No:
-# Name:
-# Date:
+# Reg No: 212225230226
+# Name: RIHAB ZAKKAIR HUSSAIN
+# Date: 19-05-2026
 
 
 # AIM:
